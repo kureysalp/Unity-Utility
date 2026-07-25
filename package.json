@@ -1,0 +1,23 @@
+{
+  "name": "com.kureysalp.unity-utility",
+  "version": "1.0.0",
+  "displayName": "Unity Utility",
+  "description": "A collection of Unity utility classes: fluent extension methods for common Unity and C# types, MonoBehaviour singleton base classes, cached coroutine yield instructions, and vector math helpers.",
+  "unity": "2021.3",
+  "author": {
+    "name": "kureysalp",
+    "url": "https://github.com/kureysalp"
+  },
+  "license": "MIT",
+  "keywords": [
+    "utility",
+    "utilities",
+    "extensions",
+    "helpers",
+    "singleton",
+    "tools"
+  ],
+  "documentationUrl": "https://github.com/kureysalp/Unity-Utility",
+  "changelogUrl": "https://github.com/kureysalp/Unity-Utility/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/kureysalp/Unity-Utility/blob/main/LICENSE"
+}

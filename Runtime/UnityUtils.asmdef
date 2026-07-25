@@ -1,0 +1,20 @@
+{
+    "name": "UnityUtils",
+    "rootNamespace": "UnityUtils",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.mathematics",
+            "expression": "",
+            "define": "ENABLED_UNITY_MATHEMATICS"
+        }
+    ],
+    "noEngineReferences": false
+}
