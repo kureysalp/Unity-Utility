@@ -50,14 +50,14 @@ Fluent extension methods for the types you touch every day:
 ### Singletons
 Base classes for MonoBehaviour singletons:
 
-- **`Singleton<T>`** — auto-instantiating, scene-scoped singleton.
-- **`PersistentSingleton<T>`** — survives scene loads via `DontDestroyOnLoad`, with optional auto-unparenting.
+- **`Singleton<T>`** - auto-instantiating, scene-scoped singleton.
+- **`PersistentSingleton<T>`** - survives scene loads via `DontDestroyOnLoad`, with optional auto-unparenting.
 
 ### Coroutine helpers
-- **`WaitFor`** — cached `WaitForSeconds` / `WaitForFixedUpdate` / `WaitForEndOfFrame` instructions to cut per-frame GC allocations in coroutines.
+- **`WaitFor`**- cached `WaitForSeconds` / `WaitForFixedUpdate` / `WaitForEndOfFrame` instructions to cut per-frame GC allocations in coroutines.
 
 ### Math
-- **`VectorMath`** — static helpers for signed angles on a plane, dot-product projection, projecting points onto lines, rotating vectors onto planes, and more.
+- **`VectorMath`** - static helpers for signed angles on a plane, dot-product projection, projecting points onto lines, rotating vectors onto planes, and more.
 
 ## Optional dependency
 
