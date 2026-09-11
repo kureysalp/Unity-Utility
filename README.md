@@ -1,6 +1,6 @@
 # Unity Utility
 
-A lightweight collection of Unity utility classes — extension methods, singleton base classes, coroutine helpers, and vector math — packaged for the Unity Package Manager.
+A lightweight collection of Unity utility classes extension methods, singleton base classes, coroutine helpers, and vector math packaged for the Unity Package Manager.
 
 Everything lives under a single namespace:
 
