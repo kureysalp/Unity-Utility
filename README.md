@@ -39,13 +39,13 @@ Alternatively, add the dependency directly to `Packages/manifest.json`:
 ### Extensions
 Fluent extension methods for the types you touch every day:
 
-- **GameObject / Transform** — `GetOrAdd`, `OrNull`, hierarchy paths, recursive layer setting, child enable/disable/destroy, pose get/set, and more.
-- **Vector3** — component-wise `With` / `Add` / `ComponentDivide`, range checks, random offsets, points in an annulus, grid quantization.
-- **Rigidbody** — redirect velocity while preserving speed, stop instantly (Unity 6 `linearVelocity` aware).
-- **Camera** — viewport extents with margin for frustum culling.
-- **String** — null/blank checks, slicing, alphanumeric conversion, and rich-text formatting helpers.
-- **List / IEnumerable** — `Shuffle`, `Swap`, `Filter`, `Clone`, `ForEach`, and allocation-aware `Random` selection.
-- **Numbers / Mathf** — `Remap`, `AtLeast` / `AtMost` clamping, odd/even checks, approximate comparison, and `Min` / `Max` for extra numeric types.
+- **GameObject / Transform** - `GetOrAdd`, `OrNull`, hierarchy paths, recursive layer setting, child enable/disable/destroy, pose get/set, and more.
+- **Vector3** - component-wise `With` / `Add` / `ComponentDivide`, range checks, random offsets, points in an annulus, grid quantization.
+- **Rigidbody** - redirect velocity while preserving speed, stop instantly (Unity 6 `linearVelocity` aware).
+- **Camera** - viewport extents with margin for frustum culling.
+- **String** - null/blank checks, slicing, alphanumeric conversion, and rich-text formatting helpers.
+- **List / IEnumerable** - `Shuffle`, `Swap`, `Filter`, `Clone`, `ForEach`, and allocation-aware `Random` selection.
+- **Numbers / Mathf** - `Remap`, `AtLeast` / `AtMost` clamping, odd/even checks, approximate comparison, and `Min` / `Max` for extra numeric types.
 
 ### Singletons
 Base classes for MonoBehaviour singletons:
